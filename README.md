@@ -55,11 +55,3 @@ python main.py
 
 Follow the on-screen prompts to select different mathematical operations.
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests to enhance the project.
-
-## License
-
-This project is licensed under the **MIT License**.
-
